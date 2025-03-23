@@ -32,7 +32,9 @@ Download zip archive, and extract & copy contents from Content folder to Content
 As is. No support. DIY. Learn purposes only.
 
 ## Reference(s)
-https://the-pigeon-protocol.itch.io/reech-and-hait Original project
+- https://the-pigeon-protocol.itch.io/reech-and-hait Original project
+- https://the-pigeon-protocol.itch.io/reech-and-hait/devlog/215324/finally-its-out Devlogs (original)
+- https://www.youtube.com/embed/DyRcQ1VI6Bo (30s game trailer on Youtube)
 
 ## ..
 [m][e] March 2025
