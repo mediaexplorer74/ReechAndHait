@@ -34,7 +34,8 @@ As is. No support. DIY. Learn purposes only.
 ## Reference(s)
 - https://the-pigeon-protocol.itch.io/reech-and-hait Original project
 - https://the-pigeon-protocol.itch.io/reech-and-hait/devlog/215324/finally-its-out Devlogs (original)
-- https://www.youtube.com/embed/DyRcQ1VI6Bo (30s game trailer on Youtube)
+- https://www.youtube.com/watch?v=DyRcQ1VI6Bo | Reech and Hait | Game trailer (30s)
+- https://www.youtube.com/watch?v=ezgt-a861r4 Reech and Hait | Gameplay  (30s)
 
 ## ..
 [m][e] March 2025
