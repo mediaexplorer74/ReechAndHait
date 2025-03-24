@@ -3,6 +3,15 @@
 
 "UWP-Remake" of ITCH.io ReechAndHait game project.
 
+## About
+"…tells the adventure of two friends,
+Reech the gecko, and Hait the monkey, 
+trying to find their way to a new home.
+
+On their quest, they will encounter strange ancient mechanisms in 
+a long-forgotten cavern and must combine their unique strengths to solve riddles.
+
+This game is an atmospheric puzzle-platformer for two players in which you have to work together to help the duo find their way out!"
 
 ## Screenshots
 ![Logo](Images/sshot01.png)
@@ -39,3 +48,5 @@ As is. No support. DIY. Learn purposes only.
 
 ## ..
 [m][e] March 2025
+
+![Logo](Images/ReechAndHait.png)
