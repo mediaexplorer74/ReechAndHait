@@ -7,11 +7,11 @@
 ## Screenshots
 ![Logo](Images/sshot01.png)
 ![Logo](Images/sshot02.png)
-![Logo](Images/sshot02.png)
+![Logo](Images/sshot03.png)
 
 ## Tech details
 - UWP app
-- Min Win. SDK is 10240, Main Win. SDK is 19041  
+- Min Win. SDK is 10240, Main Win. SDK is 14393  
 - Input: Keyboard (Up/Down/Left/Right/Space) & "Emulated" XBox 360 Controller (W/A/S/D/X, and A/B/R/H/F)
 - Work in progress (no touch control & Monkey Bot AI)
 
