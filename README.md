@@ -21,7 +21,7 @@ This game is an atmospheric puzzle-platformer for two players in which you have 
 ## Tech details
 - UWP app
 - Min Win. SDK is 10240, Main Win. SDK is 14393  
-- Input: Keyboard (Up/Down/Left/Right/Space) & "Emulated" XBox 360 Controller (W/A/S/D/X, and A/B/R/H/F)
+- Input: Keyboard (Up/Down/Left/Right/Space) & "Emulated" XBox 360 Controller (W/A/S/D/X), and B/R/H/F, and Mouse :)
 - Work in progress (no touch control & Monkey Bot AI)
 
 ## ToDo
