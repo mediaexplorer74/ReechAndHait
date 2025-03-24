@@ -28,7 +28,7 @@ This game is an atmospheric puzzle-platformer for two players in which you have 
 - Realize Touchscreen support (for W10M / Lumia 950 or some cool Touch-friendly Win-tablet) 
 - Dream on Monkey AI Bot (for duo-player mode game simplify ))
 - Extend game worlds (puzzles, levels, stages, etc.)
-- Optimize COntent size (at now it's size is so huuuuge, over 3.8 Gb!!!!!)
+- Try to reduce Content size (at now it's so huuuuge, over 3.8 Gb!!!!!)
 
 ## How to build
 1. Original project needed to download. Use this page: https://the-pigeon-protocol.itch.io/reech-and-hait
