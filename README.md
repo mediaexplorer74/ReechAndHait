@@ -24,7 +24,7 @@
 ## How to build
 1. Original project needed to download. Use this page: https://the-pigeon-protocol.itch.io/reech-and-hait
 
-Download zip archive, and extract & copy contents from Content folder to Content folder of ReechAndHait src project.
+Download zip archive, and extract & copy all content (or only one-two level/stage data, to optimize disk space) from original Content folder to Content folder of this src...
 
 2. Choose target x86, x64, or ARM, or ARM64, and build app. Or deploy appx package for your own game mechanics exploration .
 
